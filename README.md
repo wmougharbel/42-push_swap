@@ -1,4 +1,4 @@
-# Push_swap Project
+# Push_swap
 
 ## Overview
 The Push_swap project is an exciting and challenging project in the 42 curriculum that explores sorting algorithms and data manipulation. In this project, students are tasked with sorting a stack of integers using specific operations while adhering to strict rules. This project offers a hands-on opportunity to learn about algorithm complexity, optimization, and problem-solving.
